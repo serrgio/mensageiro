@@ -28,6 +28,10 @@
             android:name="com.br.example.mensageiroufg.app.lstMensagensActivity"
             android:label="@string/title_activity_lst_mensagens" >
         </activity>
+        <activity
+            android:name="com.br.example.mensageiroufg.app.ItemListView"
+            android:label="@string/title_activity_item_list_view" >
+        </activity>
     </application>
 
 </manifest>
